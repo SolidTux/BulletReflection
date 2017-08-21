@@ -1,2 +1,0 @@
-run:
-	./gradlew desktop:run
